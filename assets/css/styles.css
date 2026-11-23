@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #1A2126;
+}
+
+@font-face{
+    font-family: inter;
+    src: url(../fonts/Inter/Inter-VariableFont_opsz\,wght.ttf);
+}
+
+@font-face{
+    font-family: montserrat;
+    src: url(../fonts/Montserrat/static/Montserrat-Bold.ttf)
+}
+
+.heads{
+    font-family: montserrat;
+    color: #bdb5a5;
+}
+
+.txt{
+    font-family: inter;
+    color: rgba(255, 255, 255, 0.384);
+}
+
+.bg-cards{
+    background: #3A4750;
+}
+
+.bg-btn{
+    font-family: montserrat;
+    border-radius: 45px;
+    background: #bdb5a5;
+    color: #1A2126;
+}
+
+.bordes{
+    border-radius: 10px;
+}
+
+.direcciones{
+    font-family: montserrat;
+    text-decoration: none;
+    color: #F5F2EB;
+    padding-left: 10px;
+}
